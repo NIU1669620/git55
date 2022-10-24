@@ -1,3 +1,3 @@
 File3
 Commit Col·laborador
-Primer canvi f3
+Canvi 1 a master
